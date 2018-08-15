@@ -1,0 +1,19 @@
+{
+  "name": "camera",
+  "version": "1.0.0",
+  "description": "simple camera app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acausbu419/camera.git"
+  },
+  "author": "Adam Ausburn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acausbu419/camera/issues"
+  },
+  "homepage": "https://github.com/acausbu419/camera#readme"
+}
